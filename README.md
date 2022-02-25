@@ -1,2 +1,3 @@
 # Boring-Ball
-flutter
+based on flutter
+https://flutter.dev/
